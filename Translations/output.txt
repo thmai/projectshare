@@ -9,9 +9,9 @@ Conversation / deeds
 Know the unspoken rules
 Resourceful
 Leadership qualities
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&source=und&q=%2F&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&alt=json returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&source=und&q=%EF%BC%8F&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&alt=json returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&source=und&q=%EF%BC%8F%EF%BC%8F&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&alt=json returned "Invalid Value">
+/
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und&target=en returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F%EF%BC%8F&source=und&target=en returned "Invalid Value">
 3 or more language
 ability
 ability

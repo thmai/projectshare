@@ -1047,7 +1047,7 @@ Not fixed
 1000
 499
 2000
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&alt=json&q=7%2C200&source=und returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=7%2C200&target=en returned "Invalid Value">
 2000
 2000
 2000

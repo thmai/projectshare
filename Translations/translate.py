@@ -41,7 +41,7 @@ def store_in_map_and_print(map, key, value):
 
 def is_text_combination_of_some_special_characters(text):
 	text_without_spaces = text.strip()
-	p = re.compile('[(\?)(\\)]*')
+	p = re.compile('[(\?)(\\)(／)]*')
 	if not p.match(text_without_spaces):
 		return False
 	matched_object = p.match(text_without_spaces)
