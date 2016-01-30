@@ -1873,7 +1873,7 @@ student
 student
 student
 student
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&alt=json returned "Invalid Value">
+／
 student
 student
 student
@@ -1882,11 +1882,11 @@ student
 student
 part-time sales
 student
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&alt=json returned "Invalid Value">
+／
 student
 0
 student
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&alt=json returned "Invalid Value">
+／
 part time
 student
 student
@@ -1902,7 +1902,7 @@ student
 student
 Reception, tutoring
 Good generous meaningful work
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&alt=json returned "Invalid Value">
+／
 student
 no
 no
@@ -1910,8 +1910,8 @@ no
 /
 /
 /
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&alt=json returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&alt=json returned "Invalid Value">
+／
+／
 Salesperson
 student
 /
@@ -1919,7 +1919,7 @@ buyer
 student
 student
 student
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&alt=json returned "Invalid Value">
+／
 /
 student
 student
@@ -1934,7 +1934,7 @@ student
 /
 people
 student
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&alt=json returned "Invalid Value">
+／
 student
 student
 student
