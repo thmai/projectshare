@@ -1,0 +1,1105 @@
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&q=0&source=und&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+Green is good people
+Interpersonal
+Hardworking
+Learning
+bear
+Mandarin
+Conversation / deeds
+Know the unspoken rules
+Resourceful
+Leadership qualities
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&q=%2F&source=und&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&q=%EF%BC%8F&source=und&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&q=%EF%BC%8F%EF%BC%8F&source=und&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+3 or more language
+ability
+ability
+Ability in facing stress
+ability of work within group
+ability to take up responsibility
+abitity
+able to speak a lot which makes sence?
+active
+affite
+alex
+ambitions
+appearence
+AQ
+attitude
+be positive
+be proaetive
+be responsible--can do attitude
+beautiful
+being director in perfroment arts
+being talkative
+body
+Calm
+Can present self well
+can take riske
+capable of having stress
+celve
+Centrify
+some
+ceving
+characteristic
+Clear mind, work efficiency
+clever
+collage
+commitation skill
+commuication style
+commumiation skill
+communication skill
+communication skills
+Communtication
+concept
+confidence
+confident
+CONTIDENT
+cooperation capacity
+cooperative
+Cottitude(positive)
+creatine
+creative
+Creatively
+creativity
+Credibility
+critial thinking
+critical skills
+critical thinking
+cute
+cvitical thinking
+dead with problems
+decipline
+decisive
+degree/master etc
+Delccy
+DSE 成績
+education level
+educational
+educational background
+edueation level
+english
+enthusiastic
+EQ
+EQ high
+EXP
+expectation
+experience
+face the challenge
+family
+fidelity
+Figare
+financial skills
+First impression
+Flexibility
+FRIENDLY
+Friendly(I guess?)
+FUTEREST
+get in communicatiot
+good affitude fouards leaving
+good at teamwork
+Good castering skill
+good communcation
+Good emotion value
+good of commucation
+good sports
+great communforion skill
+Handsome
+Hanrdworking
+happy
+hard work
+hard working
+hardwork
+hardworking
+hard-working
+have skill
+Heart
+helpful
+honest
+Honesty
+Human skills
+humble
+indepence working skill
+independence
+independenl
+independent
+insist
+inspare
+integrly
+intelligame
+interest
+international
+interpersnal skill
+interperson skill
+interpesonal
+intership in different theater
+IQ
+job recognize
+knowledge
+Language ability
+language skills
+leader
+leadership
+logic think
+lsyehity
+Management
+manner
+merits
+Money
+more independently
+mulit-tasking
+multi tacking
+MULTI-langauge
+multi-tasking
+Must work hard
+mutY fasking
+My attitude
+My experience
+my hold personality
+Nice
+no idea
+on call 36 hour
+organization
+orpcotnion
+OT Wuxi than money
+Out going
+OUT-GOING
+Passion
+passionate
+patence
+patience
+patient
+patrent
+perfect
+perservant
+personality
+polite
+Positive
+presentation skill
+Presention
+pretty
+problem sloving skills
+Problem soloving
+problem solving
+problem solving skills
+promblem skill soluing
+Puncture
+punctnal
+PUNCTUAL
+puntural
+relafionship
+reliable
+RESOPSIBLE
+respanible
+responsibility
+responsible
+Responsille
+RESPURSIBILITY
+Sample
+self motivated
+self-confidence
+self-esteem
+self-independent
+sense of belonging
+sexy
+should be passionate
+shouldnt have patrence
+Shy
+skill
+skillful
+SLP
+smart
+SMILE
+sociable
+society status
+SOME OF BELONGING
+souable
+SPEAKING
+SPEAKING SKILLS
+stupid
+were
+takafive
+Talent
+Talkative
+Team work
+team work
+team worker
+technic
+think psitive
+time management
+time managment
+try your best
+university degree
+varies
+willing to learn
+work experience
+work hard
+work hard
+work indepent
+work over time,under preesure
+work under pressure
+working experience
+workload can handle
+written skills
+your respone
+A certain degree of education
+Multitasking
+One-click
+Wai
+Motivated
+Motivated
+Nuisance water do not mind OT
+Not afraid to lose
+Not afraid to ask questions
+Not afraid of hardships
+Bottom afraid eclipse
+Afraid of being blamed
+Afraid of hard work
+Not picky
+Not because of the money and have the job
+Will not give up
+Not like bad
+do not know
+It does not require paying
+Do not be late
+Not arrogance does not dry
+Chinese
+Chinese Level
+initiative
+Active / active
+Active Learning
+Initiative
+Good ~
+Understanding the nature of work
+Learn the industry
+co-operate
+communicate with
+Attached ability
+Character
+Character / conduct
+Good character (polite)
+Human touch
+Personality
+Life experience
+Popularity
+Personal connections
+When people
+Interpersonal
+People skills
+Interpersonal
+Good interpersonal relations
+Good interpersonal relations
+Wide human face
+Pay
+With responsibility
+Chung can be good
+hard working
+What b
+Your skills
+Your self-confidence
+Your height
+Conservatism
+trust
+Reliance
+confidence
+training
+Personal education
+Personality
+Personal attitudes
+Individual director
+personal skills
+The individual&#39;s own characteristics, such as: unique outer Graduate long, chest piano
+Personal qualities
+Personal experience
+Individual ability
+Self-confidence
+Personal self-confidence
+Strength work
+Work efficiency
+Things organized
+work diligently
+Do both
+Doing wild
+health
+Talkative
+Values
+Appearance
+Correct appearance
+excellent
+advantage
+Adequate preparation
+Company Information
+Creative
+A sense of responsibility
+With Leadership
+With the efficiency of a high-speed
+calm
+Cool Mature
+Graduate
+Small mistakes
+Sense of proportion
+Skills of analyze
+Assiduous
+Assiduousness
+Creative
+Creativity / imagination
+Venture
+creativity
+Strive
+Efforts?
+To make progress
+work hard
+strength
+Brave
+Brave bear
+The courage to help others
+The courage to try
+The courage to try, innovation
+Adventurous
+The courage to take
+The courage to express their views
+courage
+Great courage
+pragmatic
+Hardworking
+Hardworking intentions
+Qin Nu
+industrious
+diligent
+Hardworking
+Rise
+Collaboration
+assist
+Crisis response high
+friendly
+Friendly / Good
+Anti-sex
+reaction
+fast reaction
+eloquence
+Terrible eloquence
+Eloquent
+Eloquence was
+可以 OT
+OT can Chengri
+Solve the problem
+reliable
+Lat
+Cooperation
+Strong cooperation
+Cooperation capacity
+Gregarious
+Ditto
+empathy
+And people get along well
+And Li Feifei
+Morality
+Good moral character
+Good moral character
+Character
+conduct
+You agree Waste Green
+唔怕 eclipse bottom
+Well bother
+Do not know
+Well late
+good at socializing
+Good communication
+Kind-hearted
+Darkie
+serious
+Four limbs
+Bodied
+Responses
+global cooperation
+Creative team
+teamwork
+spirit of teamwork
+Teamwork
+Team Capability
+Group cooperation
+Frank
+firm
+strong
+adhere to
+Perseverance
+Outbound
+Outward
+Looks nice
+Foreign language skills
+appearance
+Looks good
+outside
+Diversified skills
+Much work experience
+Many friends
+the University
+bachelor degree
+College Students
+Graduation
+Inclusive love
+generous
+Taizhiruoyu
+brain
+Daring
+Daiseki
+Born clever
+Awards
+Great
+Good character
+Good Lat
+Studious
+Good attitude
+Good Effectiveness
+Good attitude
+Good social skills
+Good performance
+Good shape
+Bachelor of Science
+Education
+Schoolwork
+Educational background
+Education / Experience
+Degree speed
+Educated
+Learning good attitude
+Learning levels
+Learning ability
+Learning
+D learned baa
+Residence
+Trustworthy
+Be punctual
+Punctuality 0
+Compliance
+Abide by the rules
+Eg observe punctuality rules
+Complete university courses
+family
+Family status
+Easy to communicate with people
+Easy to get along with people
+rich
+strength
+concentrate
+Professionals
+Professional knowledge
+Focus
+Mindfulness
+Designed heavy others
+Specialty
+respect
+Artificial requirements
+Human polite
+Benefit the company
+Understanding of work
+Fluent
+Fluent fluent
+Fluent fluent
+They have a claim on
+Affirmation of their own
+Confident of their ability
+The enthusiasm of the profession
+Understanding of the profession
+Record
+jobs
+Hard-working
+Work and non-work experience
+Good work
+Work fast
+Work attitude
+Good work attitude
+work efficiency
+high working efficiency
+Work Efficiency
+Long working hours
+Work efficiency
+Work ethic
+Work rate
+Ability to work
+work experience
+Experience more
+Experience high
+Ability to work
+Strong ability to work
+High working capacity
+working performance
+Work hard
+Working speed
+Shuai
+Handsome
+level
+age
+Powerful
+Attitude of others
+Dealing with people capacity
+Epigenetic
+smile
+heart
+Mentality
+patience
+endurance
+loyalty
+loyalty
+fast
+Fast ruthless quasi
+fast
+Think
+Reflection fine
+Anxious only
+gender
+character
+Cheerful personality
+Sexuality
+perseverance
+EQ
+Unexpectedly,
+idea
+Imagination
+I love narrative
+A sense of adventure
+attitude
+Good attitude
+Good attitude
+Serious attitude
+Humility
+careful
+Accustomed to ponder the problem, rather than an overstatement
+Qin multiple languages
+慬 Shen
+Understand communication
+Typing know
+Understand fluent in multiple languages
+Understand the strain
+To understand computer
+Ability to cope
+response
+strain
+Resilience
+Strain and strong
+Strain reaction
+Strong strain
+Resilience
+High resilience
+Achievement
+Excellent performance
+Good results
+Ideal results
+High scores
+I Do not know ah
+I will be diligent fool
+I have enough confidence in the competent office
+I have leadership skills
+Hand View
+competence
+Ability and wisdom
+Ability
+To education
+Talent
+type
+Fast Typing
+The experience of playing an official document
+Criticism thinking
+skill
+skill
+Skills and more
+technology
+Put in
+Compression / resilience
+The pressure is high
+Resilience
+ambition
+Fighting
+Yong to try
+Good at communication
+conduct
+Good conduct
+Shoe
+give up
+Effect
+effectiveness
+Fast Efficiency
+High efficiency
+teacher
+tidy
+Good finishing ability
+Paperwork
+Good writing
+Easy Controlled
+Easy going
+Time Management
+sense of time
+Mandarin
+Mandarin Good
+intelligence
+High IQs
+wisdom
+Will perform his duties was to this, and think about its meaning
+Will respect others
+Use a computer
+In collaboration with people
+Conversation
+Will work
+There DREAM
+Motivated
+Motivated
+Assertive
+There are accountable / responsible
+There are human relationships
+Have confidence
+There are credit
+Personality
+Air-conditioned
+Sensible
+Promising
+creative
+Courage
+There are hard-working good attitude
+There collaboration
+Principled
+There eloquence
+There are around Languages
+Youmie Skills
+Youmie experience
+Youmie capacity
+kind
+There Society University
+There ambition
+Gifted
+There are a lot of positive energy
+Have a good education
+There are good people relationship
+Yes Education
+Family
+There 尃 long
+Work experience
+Able to work
+Determined
+Determined to do
+Thinking
+Perseverance
+have a thought
+Loving
+There resilience
+There are scores
+Capable
+talented
+Talented
+There are bear
+Have to play
+Have to play, a sense of responsibility
+productive
+Concept of time
+Wisdom
+Methodical
+A kind
+Perseverance
+Energetic
+There are communication skills
+Enthusiastic
+There enthusiasm
+Have independent thinking
+it works
+There are relatively intellectual jobs
+Has the ability to relatively jobs
+There are social skills
+Polite
+polite
+Smiles
+Have management skills
+has experience
+Have patience
+Patience
+able
+Brain
+Have confidence
+We have self-confidence
+Good interpersonl skill
+Have a good ability to work
+Good English skills
+Good presentation skills
+Integrity
+There are sincere
+Sincerity
+responsible
+Responsible
+Responsible
+Super high IQ, a top ten
+rich
+Wealthy man
+There Leadership
+Leadership ability
+Leadership ability
+High analytical capacity
+High organizational skills
+High fitness
+obey
+Obedience
+Caineng
+decisive
+Lotte
+Helpful
+Willing to cooperate with people
+optimism
+kind
+Like good
+Appearance
+Appearance
+Like Liang
+witty
+Virtual apology
+Singing skills
+joy
+Normal
+Step support experience
+perseverance
+Compared to place qualified people
+Juice production
+High juice Viability
+Attend school
+Knowledge
+determination
+decision
+Determination
+Decision-making capacity
+Calm
+Legal knowledge
+French
+French
+activity
+Lively
+Fluent English
+Fluent English
+Calm
+Calm, confident
+on time
+Knock off time
+communication
+Communication / cooperation capacity
+Ability to communicate
+Strong communication
+Communication Skills
+Communication skills
+Strong communication skills
+High communication skills
+Communication language
+Beautiful
+Flexibility
+For the sake of the company
+For their efforts
+no
+enthusiastic
+Eager to help others
+enthusiasm
+Love of work
+Sincere
+independent
+Ability to work independently
+Independence
+Work independently
+Work independently
+Independent handling capacity
+Good understanding and skills
+Errands ability
+Diligent
+Intention
+Hard to do
+By the low salaries
+make a prompt decision
+Try
+Try to do everything
+Dedication
+Loyal
+Diligence
+direct
+Activity or related work experience
+Education related subjects
+sincere
+eye contact
+Tokuse-seki
+know how
+Socially
+Social skills
+Social skills
+courtesy
+positive
+Active heart
+Positive and optimistic
+Proactive
+stable
+Li move
+Competitiveness
+Smile
+Smile more
+In line with the ability to work
+management
+management team
+Management skills
+Management capabilities
+shrewd
+spirit
+proficient
+discipline
+Search
+careful
+Organizational skills
+experience
+experience
+painting
+Volunteer Manager
+honest
+endurance
+patient
+Resistance
+Bitter resistance
+Smart
+clever
+clever
+Clever / resourcefulness
+Listen to the opinions of others
+Listen to teach
+obedient
+Willing to pay
+Willing to do
+Willing to endure hardship
+Willing to learn
+Willing to learn
+Willing to learn willing to endure
+Willing to endure
+Willing to endure hardship
+Willing to admit
+fat
+能 OT
+ability
+Good ability
+High capacity
+Hardworking
+To adhere
+Help boss or other superiors / colleagues
+capable
+Well completion work
+Can withstand the pressure
+Can grasp (left) Li Mandarin, English
+Employers can reduce the burden
+Energy manager
+Get along with people
+To cooperate with others
+You can speak benevolent
+Articulate identified
+Can work long hours
+Inspire staff / increase morale
+good temper
+courage
+Linweibuju
+Threatened to solve the problem
+Temporary resilience
+Autonomous
+Autonomy
+confidence
+Confident, smile
+confidence.
+Self-confidence and communication skills
+Self-confidence
+Strong self-confidence
+Their ability
+Self-discipline
+Self-discipline, self
+Self-ability
+Self-demanding
+Themselves
+Self-care ability
+free
+Spontaneity
+Knowing
+Self-reliance
+Their professional
+Voluntary
+Cooperation with others
+Communication skills with people
+Get along with others
+The ability to flirt with the guests
+Communicate with customers
+And industry-related knowledge
+interest
+Manners and polite
+Good Relationships
+Good attitude
+Good communication
+Good communication skills
+Good communication skills
+Good expression
+English
+Good English
+English strong
+English level
+High English level
+High English ability
+English
+English ability
+Salary
+Business acumen
+Their capabilities
+Fast their capabilities
+Deal with things
+Interpersonal
+Processed into?
+Handling
+Humbly listen
+behavior
+clothes
+clothes
+which performed
+expression ability
+Good communication skills
+Less requirements
+Visual Arts
+kind
+Cordial and polite
+Affinity
+Affinity
+Observation
+Unzip
+Ability to solve problems
+Problem-solving skills
+Address capacity
+Problem-solving
+Problem solving skills
+High problem-solving ability
+詚 Cheng
+Buddist wake tail
+Relevant experience for the job
+Relevant qualifications for the job
+Knowledge required for the job
+serious
+Work hard
+Seriously
+Chinese
+Language proficiency
+Language
+Language ability
+Language skills
+Language ability
+language skills
+Honesty
+honest
+Sincerity
+sincere
+Persuasiveness
+Speaking Skills
+Ability to speak
+High ability to speak
+Decent conversation
+Clear conversation
+conversation
+humble
+Qian thick
+modest
+humble
+Lecture Come
+Speak wild Lak
+cautious
+Cautious character
+Multi-lingual knowledge
+To know more talent
+Know the work
+Ye know talk
+Knowledge work
+Knowledge transformation
+Read many subjects
+Metamorphosis nice
+Variable fast
+Flexible
+Any negative heart
+Any negative sense
+Be responsible for
+Responsibility
+Responsible for heart
+responsibility
+Responsible
+Responsibility
+conscientious
+Responsibility
+qualifications
+Background
+Background Background
+superpower
+Enough willpower and self-confidence
+dancing
+Ease
+Stature
+figure
+Figure, appearance
+Healthy body
+Good health
+height
+Fast forward a few
+hard
+Efficiency
+High efficiency
+Work efficiency
+Competence
+High competence
+Search over
+speed
+Enterprising
+There are degrees of advance and retreat
+Previous work experience and performance
+Past experience
+Resilience
+adaptability
+Adaptable
+logical thinking
+Good logical thinking
+Knowledge that professional
+Air should you Wenmiegongjia
+wake
+Eye-catching
+money
+Appearance
+Happy
+Happy Work
+Cheerful
+Cheerful music Kun
+Cheerful and positive
+concern
+sunlight
+Long the chest
+Resourceful
+Saturday and Sunday
+computer
+Computer skills
+flexible
+Flexible
+Liang
+Handsome
+Very smart
+The ability to face the problem
+The face of adversity
+Interview Tips
+People willing to help page
+Obedience Central
+leadership
+leadership
+Leadership Caineng
+Leadership experience
+leadership
+Leadership preferred
+Leadership
+Leadership skills
+Good mind
+Hair Length
+Yen value is high
+Willing to learn
+Willing to endure hardship
+Willing to learn
+Food was bitter
+physical strength
+Physical good
+high
+Highly educated
+High efficiency
+height
+high efficiency
+High insight
+High self-management skills
