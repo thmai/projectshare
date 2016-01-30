@@ -1,0 +1,2056 @@
+27.a
+
+
+transport
+transport
+0
+nurse
+0
+teacher
+bus driver
+SF
+Clothing
+0
+0
+clerk
+clerk
+0
+0
+0
+Repair
+0
+0
+0
+Store manager
+0
+0
+chef
+manager
+businessman
+0
+0
+retirement
+0
+0
+0
+0
+Plumbing repair
+0
+0
+0
+0
+0
+0
+worker
+
+Dessert division
+0
+Chassis
+0
+X 
+0
+diet
+chef
+driver
+0
+engineer
+0
+Electrical mechanic BOSS
+0
+0
+0
+0
+Storeworker
+service
+0
+0
+diet
+Manual workers
+Electrical mechanic
+0
+service
+businessman
+ground
+0
+0
+operator
+0
+technician
+driver
+driver
+retirement
+0
+Freelancer
+housewife
+do not know
+0
+0
+0
+0
+chef
+0
+0
+0
+0
+Skilled worker
+0
+0
+retirement
+Construction site
+0
+0
+No
+driver
+0
+0
+driver
+Hydropower
+0
+chief
+0
+0
+0
+Skilled worker
+engineer
+0
+Civil Servants
+Logistics
+Tailor manager
+driver
+Do not know
+Skilled workers
+0
+Logistics
+driver
+Car length
+Construction Industry
+0
+businessman
+Business
+0
+0
+Decoration master
+building
+Storeworker
+engineer
+chef
+0
+0
+0
+diver
+0
+0
+0
+0
+0
+manager
+renovation worker
+Casual workers
+0
+electrician
+Driver
+business man
+Bus janitors
+Decoration
+0
+worker
+God
+Doctors
+0
+0
+0
+0
+Civil Servants
+engineering
+0
+cook
+businessman
+0
+0
+IT業
+retirement
+0
+construction worker
+driver
+building
+driver
+Water Supplies Department Inspector
+put up
+driver
+0
+worker
+Construction Industry
+management
+0
+boss
+worker
+Plant Technology Institute
+chief
+Haircut
+0
+0
+clerk
+clerk
+worker
+chef
+building
+diet
+Civil Servants
+0
+chief
+boss
+Car length
+worker
+worker
+Logistics
+WSD mechanic
+transport
+electrician
+teacher
+driver
+Civil Servants
+0
+0
+0
+teacher
+0
+Warehouse janitors
+trading
+ground
+manager
+0
+0
+0
+0
+0
+0
+Members to be purchased
+0
+0
+Civil Servants
+teacher
+0
+0
+secretary
+engineer
+Civil Servants
+0
+Skilled worker
+retirement
+0
+clerk
+0
+Aircraft Maintenance
+0
+Cake baker
+Auto repair
+engineer
+0
+Aired members
+0
+0
+Marble workers
+0
+0
+0
+office boy
+0
+Technical staff
+0
+Policemen
+0
+0
+Hotel Experience
+0
+teacher
+clerk
+coach
+Logistics
+0
+0
+0
+driver
+engineer
+ground
+the study
+the company
+ground
+0
+ground
+Well talk
+Storeworker
+0
+worker
+teacher
+0
+manager
+teacher
+0
+lawyer
+0
+Mechanical maintenance
+0
+0
+boss
+Social worker
+0
+0
+ground
+teacher
+Clothing
+ground
+teacher
+clerk
+0
+Government Workers
+retirement
+Security
+Construction Foreman
+Civil Servants
+worker
+financial
+driver
+0
+Skilled worker
+0
+Deliveryman
+retirement
+0
+0
+airport
+ground
+Storeworker
+Lifeguard
+0
+Policemen
+0
+0
+Plasterers people
+clerk
+Government Workers
+Administrative staff
+0
+0
+retirement
+worker
+Civil Servants
+0
+Interior design
+Skilled worker
+businessman
+0
+driver
+0
+manager
+0
+0
+office
+don't have a job
+manager
+office
+all
+0
+0
+0
+0
+0
+housekeeping
+contruction insustry
+0
+0
+0
+lust job
+0
+driver
+0
+0
+0
+Decoration
+architect
+0
+construction worker
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%3F returned "Invalid Value">
+0
+Maintenance technicians
+0
+0
+Security
+construction worker
+director
+transport
+Salesperson
+Decoration
+0
+ground
+manager
+0
+0
+boss
+Decoration
+0
+the company
+With car
+Security
+IT
+the company
+Pharmacy
+Social worker
+Skilled worker
+0
+teacher
+the company
+0
+teacher
+worker
+0
+Civil Servants
+0
+0
+business
+Unclear
+Building industry
+0
+engineering
+Rent
+Interior design
+Building industry
+printing
+0
+0
+director
+0
+Executive Officer
+0
+Social worker
+businessman
+farmer
+retirement
+clerk
+cook
+teacher
+Plumbing worker
+ground
+civilian
+Three rows
+estate
+1
+Engineer
+Roast guy
+Director of Engineering
+Drill rod
+0
+worker
+engineering
+0
+0
+0
+Catering
+0
+Constable
+technician
+Detectives
+construction worker
+Decoration
+driver
+driver
+0
+0
+lndustial
+0
+0
+Security
+businessman
+telecommunications
+0
+businessman
+0
+Bone division
+0
+0
+0
+manager
+transport
+0
+0
+0
+chef
+printing
+driver
+0
+financial
+driver
+ground
+ground
+electrician
+cook
+0
+operator
+business
+Phone
+Safety Supervisor
+carpenter
+driver
+retired
+0
+0
+driver
+0
+0
+0
+0
+driver
+0
+engineer
+driver
+Logistics
+0
+5 know
+building
+car repair
+Logistics
+Skilled worker
+Skilled worker
+0
+boss
+0
+0
+Janitors
+worker
+design
+Manual workers
+0
+Decoration
+ground
+0
+boss
+0
+0
+0
+0
+ground
+Three rows
+trading
+0
+designer
+0
+teacher
+ground
+Security
+0
+0
+teacher
+0
+0
+Civil Servants
+0
+0
+0
+police
+0
+0
+0
+0
+Decoration
+0
+0
+0
+0
+CEO
+0
+0
+ground
+0
+0
+0
+0
+0
+0
+Transport Property
+0
+electronic
+worker
+0
+manager
+0
+0
+0
+Electrical engineering
+Programmers
+0
+0
+0
+chef
+Civil Servants
+retirement
+Supreme
+building
+manager
+0
+0
+0
+0
+0
+Maintenance workers
+the company
+teacher
+teacher
+0
+0
+0
+transport
+0
+0
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%3F returned "Invalid Value">
+driver
+Doctors
+taxi drvier
+0
+ground
+0
+0
+Electromechanical
+Skilled worker
+ground
+Dessert master
+IDK
+0
+
+0
+driver
+Factories
+0
+manager
+0
+manager
+0
+teacher
+businessman
+teacher
+businessman
+Hydropower mechanic
+0
+0
+Three rows
+driver
+Passed away
+0
+0
+retirement
+ground
+driver
+ground
+0
+Water Supplies Department Inspector
+worker
+0
+0
+manager
+0
+0
+renovation worker
+retirement
+0
+ground
+bank
+building
+0
+0
+0
+Three rows
+engineer
+0
+Computer maintenance worker
+Security
+Skilled worker
+sales
+Yuen Long Bangzhu
+driver
+Coustnctm works
+car
+eat
+Decoration
+financial
+financial
+building
+chef
+Company boss
+0
+clerk
+chef
+0
+hospital
+teacher
+boss
+boss
+Electronics Engineer
+0
+Skilled worker
+0
+the company
+Manual workers
+financial
+businessman
+0
+car
+Decoration
+Catering
+0
+Electrical and Mechanical Engineering
+Skilled worker
+the company
+Security
+the company
+Three rows
+Decoration
+0
+Skilled worker
+0
+traffic
+chef
+Skilled worker
+hairstylist
+0
+nurse
+0
+0
+0
+0
+0
+Maintenance machines
+0
+0
+0
+engineer
+ground
+Will talk about?
+Taxi drivers
+0
+Decoration
+Waiter
+Working
+0
+businessman
+0
+Staff
+0
+boss
+0
+0
+boss
+service
+manager
+ground
+Cargo Workers
+0
+0
+0
+lawyer
+0
+0
+Decoration
+ground
+building
+0
+0
+Victoria electrical workers
+Insurance
+ground
+retirement
+bus driver
+0
+0
+ground
+Logistics
+factory
+0
+retirement
+Insurance
+0
+retirement
+retirement
+Child
+chef
+Social worker
+transport
+0
+CEO
+manager
+photography
+0
+service
+0
+Construction Industry
+0
+worker
+0
+Own brand
+Transport wheels
+Unknown
+0
+0
+0
+Tourist guide
+0
+0
+chef
+driver
+Residential Director
+0
+0
+0
+Unknown
+0
+Catering
+security guard
+manager
+driber
+0
+Janitors
+0
+worker
+chef
+0
+0
+0
+0
+warehouse
+0
+0
+ground
+Accountants
+0
+0
+0
+Engineen
+0
+Decoration
+building
+Look
+driver
+captain
+Logistics
+0
+engineer
+0
+engineer
+engineering
+0
+Lifeguard
+0
+ground
+Security
+civilian
+Decoration
+computer
+technician
+0
+worker
+0
+0
+Administrative co-workers (church)
+0
+0
+0
+0
+transport
+0
+teacher
+truck driver
+Skilled worker
+0
+Civil Servants
+0
+0
+Decoration
+0
+Security
+management
+0
+director
+manager
+Street Fighter
+worker
+0
+manager
+0
+sales
+businessman
+barber
+worker
+Civil Servants
+MTR
+worker
+Mining Structure
+printing
+0
+0
+teacher
+Power Engineer
+bus driver
+Drill cargo workers
+Air-conditioning mechanics
+transport
+Hong Kong driver
+driver
+0
+Three rows of workers
+engineer
+0
+driver
+0
+Three rows
+driver
+clerk
+technology
+0
+0
+Members know
+driver
+driver
+manager
+ground
+cook
+ground
+0
+cook
+manager
+To work
+0
+cook
+Three rows of workers
+0
+0
+Manual workers
+Cargo Workers
+Car length
+Chassis workers
+wholesale
+0
+transport
+Logistics
+Storeworker
+driver
+0
+ground
+0
+chef
+Firemen
+ground
+0
+driver
+0
+Security
+Three rows
+Skilled worker
+0
+Manual workers
+businessman
+0
+Decoration master
+Security
+paint
+0
+0
+0
+0
+0
+0
+0
+Coal workers
+chief
+businessman
+0
+financial
+Civil Servants
+From suppliers
+0
+0
+0
+driver
+0
+Skilled worker
+0
+Secrecy
+0
+0
+0
+ground
+0
+Three rows
+worker
+ground
+ground
+0
+chef
+0
+ground
+Water Supplies Department
+0
+Rider
+ground
+IDK 
+Cook
+0
+Air-conditioning mechanics
+0
+Old fine
+no
+Computer program management
+0
+Skilled worker
+0
+no
+individual
+building
+driver
+driver
+0
+0
+worker
+0
+0
+Bus drivers
+Skilled worker
+Maker
+0
+0
+Machine operator
+Catering
+truck driver
+chef
+0
+0
+0
+Electronic Technology
+0
+0
+chef
+0
+Do not know
+0
+Pastry chef
+Small business owners
+Computer Director
+Technical maintenance
+0
+chef
+worker
+driver
+0
+0
+Driver
+Technician
+driver
+Logistics
+0
+0
+0
+Security
+0
+Phone shop owner
+0
+0
+Interior design
+Manual workers
+Bus driver
+Cook
+Unemployed
+0
+manager
+Manual workers
+Three rows
+Three rows
+0
+0
+teacher
+ground
+ground
+0
+0
+0
+0
+teacher
+0
+Three rows
+teacher
+0
+teacher
+businessman
+teacher
+0
+retirement
+0
+0
+sales
+diet
+0
+0
+OL
+0
+0
+0
+0
+MANAGER
+clerk
+engineer
+Security
+Security
+0
+0
+chef
+trading
+0
+0
+0
+0
+0
+0
+ENGINCER
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Technical staff
+construction worker
+Skilled worker
+renovation worker
+0
+0
+engineer
+clerk
+0
+0
+chef
+building
+Civil Servants
+0
+0
+0
+0
+0
+chef
+BAKER
+businessman
+0
+0
+ground
+0
+0
+Accountants
+security guard
+achitechive
+manager
+0
+driver
+electrician
+transport
+Pastry chef
+engineer
+engineer
+0
+Skilled worker
+0
+0
+Decoration
+0
+0
+teacher
+Manager
+retirement
+driver
+0
+0
+0
+0
+0
+Police
+0
+all
+0
+0
+0
+0
+ground
+0
+Construction site
+CEO
+manager
+teacher
+0
+0
+0
+0
+0
+Taxi
+0
+driver
+0
+0
+Decoration
+driver
+Security
+0
+0
+0
+0
+0
+chef
+driver
+0
+engineer
+waiter
+building
+Taxi drivers
+clothes
+0
+0
+0
+bussinessman
+engineer
+Cake baker
+Hong Kong truck
+postman
+0
+Civil Servants
+0
+transport
+Civil Servants
+0
+government
+BOSS
+0
+drive
+0
+worker
+Doctors
+0
+worker
+0
+Chairman
+Brand purchase
+Transport workers
+Security
+Engineering Foreman
+engineering
+Manual workers
+construction worker
+Foreman
+teacher
+0
+Skilled worker
+0
+0
+0
+0
+0
+retail
+ground
+Logistics
+Decoration
+0
+0
+civilian
+Health care
+teacher
+manager
+CEO
+teacher
+0
+0
+0
+ground
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Taxi drivers
+0
+0
+IT
+Vehicle
+engineer
+0
+teacher
+doctor
+teacher
+chef
+0
+Civil Servants
+Idk
+wairer
+chef
+0
+Restaurant
+Assistant Manager
+0
+manager
+0
+0
+Food Producer
+driver
+Haircut division
+Machine maintenance
+0
+businessman
+businessman
+Skilled worker
+0
+free-lancer
+0
+0
+Pastry chef
+teacher
+clerk
+tutor
+financial
+chief
+engineering
+0
+0
+0
+Insurance
+Insurance
+DRIVER
+Government drivers
+Hotel Manager
+airport
+DRIVER
+COOK
+0
+businessman
+0
+ground
+warrior
+businessman
+driver
+0
+0
+0
+the company
+director
+driver
+Electrical mechanic
+Civil Servants
+0
+0
+Storeworker
+Decoration
+0
+Skilled worker
+Decoration
+Move cargo
+0
+Storeworker
+0
+0
+0
+0
+Airport staff
+teacher
+0
+chief
+0
+LABOUR
+Doctors
+director
+worker
+chef
+0
+0
+Engineers in charge
+0
+0
+0
+architect
+businessman
+clerk
+0
+0
+0
+Storeworker
+booker
+eat
+salt
+I do not know Fixed
+0
+teacher
+0
+0
+0
+Storeworker
+0
+0
+chlef
+worker
+Water bar
+chef
+printing
+0
+0
+printing
+enginear
+teacher
+0
+worker
+0
+0
+lawyer
+0
+Security
+architect
+business
+Housing Assistant Manager
+driver
+retirement
+driver
+0
+0
+Car mechanic
+building
+Security
+0
+0
+ground
+0
+driver
+0
+Civil Servants
+Manual workers
+Jewelry
+Bakery
+chef
+transport
+0
+renovation worker
+business
+Self-employed
+clerk
+driver
+driver
+0
+ground
+ground
+retirement
+0
+0
+ground
+0
+teacher
+0
+0
+0
+teacher
+0
+0
+0
+manager
+0
+0
+0
+0
+0
+engineering
+DRIVER
+0
+MANAGER
+0
+Compact appliance
+MANAGER
+SHIPPING
+Trasportation
+CLERK
+DRIVER
+0
+Skilled worker
+0
+0
+engineering
+0
+surveyor
+0
+DRIVER
+businessman
+Machinery Workers
+Accountants
+BANK
+0
+measuring
+0
+Security
+engineer
+Self-employed
+engineer
+0
+0
+0
+WORKER
+PLICEMAN
+measurer
+0
+1
+chef
+manager
+businessman
+0
+hospital
+0
+Security
+businessman
+driver
+driver
+0
+0
+0
+GOVERNMENT OFFLICER
+Manual workers
+Engineering Management
+chef
+Storeworker
+0
+0
+truck driver
+0
+0
+0
+0
+0
+0
+retirement
+worker
+Foreman
+transport
+construction worker
+Administrative Assistant
+driver
+manager
+MANAGER
+businessman
+Rhetorician
+transport
+clerk
+RETIVED
+TEACHER
+Technical staff
+engineer
+Secondary School Teachers
+driver
+Foreman
+0
+design
+Hydropower mechanic
+Hydropower mechanic
+worker
+worker
+worker
+lawyer
+0
+0
+doctor
+worker
+0
+indefinite
+the company
+0
+0
+construction worker
+businessman
+0
+0
+0
+0
+0
+ground
+teacher
+0
+worker
+subway
+lawyer
+driver
+teacher
+Skilled worker
+0
+0
+BOSS
+worker
+businessman
+worker
+0
+0
+0
+driver
+CEO
+ground
+0
+lawyer
+driver
+Logistics
+0
+Maintenance staff
+transport
+0
+0
+Social worker
+0
+driver
+0
+0
+electrician
+ground
+0
+0
+0
+0
+0
+Casual workers
+ground
+transport
+Decoration boss
+Computer programmers
+0
+landlord
+0
+Manual workers
+businessman
+0
+financial
+businessman
+manager
+Taxi drivers
+0
+0
+Printing industry
+interior designer
+businessman
+0
+driver
+Manual workers
+engineering
+0
+civil Engineering
+worker
+0
+Storeworker
+0
+0
+Optometrists
+SELLER
+0
+0
+0
+0
+Decoration master
+Repair
+Transport
+ground
+0
+0
+0
+Three rows
+manager
+CEO
+director
+0
+Security
+manager
+0
+0
+worker
+0
+0
+Three rows
+driver
+transport
+accounting
+technician
+0
+0
+0
+Carpenter
+Transport
+0
+driver
+0
+teacher
+0
+Power mechanic
+Decoration
+ground
+Self-employed
+0
+clerk
+President of renewable resources
+building
+Hotel employees
+driver
+retirement
+driver
+diet
+0
+0
+businessman
+0
+interior renovation
+Oriental Daily News
+Business
+0
+driver
+chef
+0
+Taxi drivers
+chef
+Travel agencies
+teacher
+DRIVER
+free-lancer
+0
+0
+0
+MTR
+lawyer
+0
+0
+Plumbing master
+produce
+0
+chef
+Engeneer
+printing
+0
+0
+ground
+chef
+Building Management
+0
+0
+Skilled worker
+0
+driver
+0
+baker
+engineer
+0
+Car mechanic
+0
+Three rows
+transport
+0
+tutor
+businessman
+IDK
+0
+0
+renovation worker
+Three rows
+building
+building
+0
+teacher
+manager
+driver
+0
+0
+CONSTRUCTION
+driver
+ground
+0
+teacher
+ground
+0
+building
+0
+0
+clerk
+manager
+clerk
+transport
+0
+management
+Security
+Three rows
+Skilled worker
+0
+0
+Porter
+0
+0
+0
+ground
+0
+ground
+businessman
+0
+worker
+0
+0
+0
+0
+0
+0
+businessman
+0
+lawyer
+0
+ground
+0
+0
+ground
+0
+Skilled worker
+ground
+0
+0
+businessman
+0
+0
+0
+0
+0
+0
+professor
+ground
+0
+0
+teacher
+driver
+teacher
+teacher
+Three rows
+Three rows
+0
+teacher
+businessman
+0
+worker
+0
+Three rows
+0
+driver
+0
+0
+0
+businessman
+0
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+do not know
+clerk
+clerk
+chef
+Logistics
+hair stylist
+engineering
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+0
+police
+clerk
+police
+engineer
+police
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+worker
+0
+0
+0
+worker
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+worker
+sailor
+civilian
+clerk
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+Disabled
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+chef
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+Security
+0
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+chef
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+Technical staff
+Firemen
+chef
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+Car dealers
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+worker
+Building industry
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+manager
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+driver
+driver
+Unknown
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+retirement
+retirement
+Company owners
+bank 
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+retirement
+Security
+I don't know
+Cooking chicken
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+Container
+transport
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+Machine operator
+CLP
+chef
+Elevator Repair
+teacher
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+people
+Business Store
+driver
+Security
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+clerk
+Logistics
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+service
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+Property
+driver
+driver
+worker
+worker
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+0
+Cook
+ground
+cook
+businessman
+0
+driver
+0
+Banker
+manager
+businessman
+retirement
+IT
+0
+0
+0
+transport
+0
+architect
+0
+Taxi
+driver
+Decoration
+0
+0
+worker
+0
+building
+teacher
+0
+teacher
+0
+0
+0
+0
+teacher
+ground
+Selling seafood
+Shippers
+0
+0
+0
+0
+Decoration
+0
+Building industry
+Car business
+0
+diet
+0
+0
+0
+0
+0
+0
+manager
+manager
+Business
+0
+0
+Civil Servants
+Education
+Logistics
+chef
+Three rows
+measurer
+0
+Three rows
+0
+0
+0
+0
+Plumbing
+Bus drivers
+0
+Salesperson
+0
+driver
+building
+0
+0
+0
+Sales
+0
+Owners rent
+chef
+0
+electrician
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
