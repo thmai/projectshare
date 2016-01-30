@@ -1849,22 +1849,22 @@ restaurant
 0
 housewife
 0
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
 housewife
 Seller
 housewife
 Unemployed
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%9F&source=und returned "Invalid Value">
+？
 housewife
 housewife
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
 0
 police
 clerk
 clerk
 housewife
 police
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
 worker
 0
 0
@@ -1876,78 +1876,78 @@ housewife
 housewife
 housewife
 housewife
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
 /
 Security
 /
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
 /
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
 housewife
 0
 /
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
+／
 Ships
 accountatn
 clerk
 nurse
 housewife
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
 Assistant Manager
 /
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
+／
 /
 housewife
 /
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
 housewife
 housewife
 Unknown
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
 /
 /
 /
 /
 housewife
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
 housewife
 bank
 /
 Restaurant waiter
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
 i don't know
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
+／
 /
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
+／
+／
+／
 /
 clerk
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
 housewife
 Accounting / Secretary
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
 /
 people
 Business Store
 housewife
 Janitors
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
 /
 clerk
 accounting
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
 Salesperson
 /
 Cashier
 housewife
 housewife
 housewife
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F&source=und returned "Invalid Value">
+／
 /
 0
 Housewife
