@@ -71,26 +71,30 @@ def main(list_strings):
 				val = int(text_original.strip())
 				store_in_map_and_print(MAP_BLAH_TO_ENGLISH, text_original, text_original)
 			except ValueError:
-				response_detection = service.detections().list(q = [text_original]).execute()
-				response_detection_text = response_detection['detections'][0]
-				if len(response_detection_text) == 1:
-					# if not response_detection_text[0]['isReliable']:
-					# 	print('Not Reliable')
-					# else:
-					try:
-						if response_detection_text[0]['language'] == 'en':
-							print(text_original)
-						else:
-							translations = service.translations().list(source=response_detection_text[0]['language'], target='en', q=[text_original]).execute()['translations']
-							if len(translations) > 1:
-								print('More than 1 translation possible')
+				try:
+					val = int(text_original.strip().replace(',', ''))
+					store_in_map_and_print(MAP_BLAH_TO_ENGLISH, text_original, text_original)
+				except ValueError:
+					response_detection = service.detections().list(q = [text_original]).execute()
+					response_detection_text = response_detection['detections'][0]
+					if len(response_detection_text) == 1:
+						# if not response_detection_text[0]['isReliable']:
+						# 	print('Not Reliable')
+						# else:
+						try:
+							if response_detection_text[0]['language'] == 'en':
+								print(text_original)
 							else:
-								MAP_BLAH_TO_ENGLISH[text_original] = translations[0]['translatedText']
-								print(translations[0]['translatedText'])
-					except googleapiclient.errors.HttpError as e:
-						print(e)
-				else:
-					print('More than 1 language possible')
+								translations = service.translations().list(source=response_detection_text[0]['language'], target='en', q=[text_original]).execute()['translations']
+								if len(translations) > 1:
+									print('More than 1 translation possible')
+								else:
+									MAP_BLAH_TO_ENGLISH[text_original] = translations[0]['translatedText']
+									print(translations[0]['translatedText'])
+						except googleapiclient.errors.HttpError as e:
+							print(e)
+					else:
+						print('More than 1 language possible')
 	pickle.dump(MAP_BLAH_TO_ENGLISH, open("map.donottouch", "wb" ))
 
 
