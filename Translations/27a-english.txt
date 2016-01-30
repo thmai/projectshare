@@ -369,7 +369,7 @@ Decoration
 architect
 0
 construction worker
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%3F returned "Invalid Value">
+?
 0
 Maintenance technicians
 0
@@ -600,7 +600,7 @@ teacher
 transport
 0
 0
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%3F returned "Invalid Value">
+?
 driver
 Doctors
 taxi drvier
@@ -1849,7 +1849,7 @@ driver
 0
 businessman
 0
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 do not know
 clerk
 clerk
@@ -1857,98 +1857,98 @@ chef
 Logistics
 hair stylist
 engineering
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 0
 police
 clerk
 police
 engineer
 police
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 worker
 0
 0
 0
 worker
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 worker
 sailor
 civilian
 clerk
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 Disabled
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 chef
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 Security
 0
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 chef
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 Technical staff
 Firemen
 chef
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 Car dealers
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 worker
 Building industry
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 manager
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 driver
 driver
 Unknown
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 retirement
 retirement
 Company owners
 bank 
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 retirement
 Security
 I don't know
 Cooking chicken
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 Container
 transport
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 Machine operator
 CLP
 chef
 Elevator Repair
 teacher
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 people
 Business Store
 driver
 Security
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 clerk
 Logistics
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%EF%BC%8F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%EF%BC%8F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 service
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 Property
 driver
 driver
 worker
 worker
-<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?target=en&alt=json&source=und&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY&q=%2F returned "Invalid Value">
+<HttpError 400 when requesting https://www.googleapis.com/language/translate/v2?source=und&q=%2F&alt=json&target=en&key=AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY returned "Invalid Value">
 0
 Cook
 ground

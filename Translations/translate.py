@@ -18,6 +18,7 @@ import googleapiclient
 from googleapiclient.discovery import build
 import pickle
 import argparse
+import re
 
 MAP_BLAH_TO_ENGLISH = None
 
@@ -38,6 +39,17 @@ def store_in_map_and_print(map, key, value):
 	map[key] = value
 	print(value)
 
+def is_text_combination_of_some_special_characters(text):
+	text_without_spaces = text.strip()
+	p = re.compile('[(\?)(\\)]*')
+	if not p.match(text_without_spaces):
+		return False
+	matched_object = p.match(text_without_spaces)
+	if matched_object.end() != len(text_without_spaces):
+		return False
+	return True
+
+
 def main(list_strings):
 
   # Build a service object for interacting with the API. Visit
@@ -51,6 +63,8 @@ def main(list_strings):
 		if text_original in MAP_BLAH_TO_ENGLISH:
 			print(MAP_BLAH_TO_ENGLISH[text_original])
 		elif not text_original.strip():
+			store_in_map_and_print(MAP_BLAH_TO_ENGLISH, text_original, text_original)
+		elif is_text_combination_of_some_special_characters(text_original):
 			store_in_map_and_print(MAP_BLAH_TO_ENGLISH, text_original, text_original)
 		else:
 			try:
