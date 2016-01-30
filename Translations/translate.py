@@ -56,7 +56,7 @@ def main(list_strings):
   # the Google APIs Console <http://code.google.com/apis/console>
   # to get an API key for your own application.
 	service = build('translate', 'v2',
-            developerKey='AIzaSyBERnUYy4_-ZTTZkv_9ReT2mGlyHG0-9qY')
+            developerKey='')
 
 # q = f_list
 	for text_original in list_strings:
